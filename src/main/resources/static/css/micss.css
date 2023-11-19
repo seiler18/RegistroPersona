@@ -1,0 +1,55 @@
+
+/* Estilos para los encabezados */
+h2 {
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+    color: white;
+}
+
+body {
+    background-color: #f8f9fa; /* Set background color */
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h2 {
+    color: #007bff; /* Set heading color */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+label {
+    font-weight: bold;
+    color: #495057; /* Set label color */
+}
+
+input.form-control {
+    border: 1px solid #ced4da; /* Set border color */
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+button.btn-success {
+    background-color: #28a745; /* Set button color */
+    border: none;
+}
+
+button.btn-success:hover {
+    background-color: #218838; /* Set button color on hover */
+}
+
+.bienvenidosTEXT{
+    text-align: left;
+    color: black;
+    -webkit-text-stroke: 1.5px black;
+}
+
+.bienvenidosIMG{
+    position: absolute;
+    width: 250px; height: 60px;
+}
+
+
+
